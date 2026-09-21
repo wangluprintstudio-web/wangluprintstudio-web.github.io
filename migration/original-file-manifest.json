@@ -1,0 +1,321 @@
+{
+  "source": "https://wanglu-print-studio-portfolio.wangluapple.chatgpt.site/",
+  "checkedAt": "2026-09-21T11:01:17.715Z",
+  "files": [
+    {
+      "path": "about.html",
+      "bytes": 8027,
+      "sha256": "92f27ffc839c0f8e61916b92b16a9699bea8ba516ab5bdb1b87282af44617c73"
+    },
+    {
+      "path": "assets/chairs/black-life-small.webp",
+      "bytes": 75698,
+      "sha256": "143a8a81bc76ee4374603c56bfaac3924706ab2463bc1720462f50b61902a82b"
+    },
+    {
+      "path": "assets/chairs/black-life.webp",
+      "bytes": 357572,
+      "sha256": "3cc6d1cfd0e38822b07226aab0ff5d6b3bd958cd270cde7e8ebfb3c0686778b5"
+    },
+    {
+      "path": "assets/chairs/black-open-small.webp",
+      "bytes": 186022,
+      "sha256": "a8d82a9115b56020f2eae7a996f59be652176e522091dbe2bb2ac16f399bd1ba"
+    },
+    {
+      "path": "assets/chairs/black-open.webp",
+      "bytes": 1004658,
+      "sha256": "fe25633227cb9b1c6174f3a2a3b4d512408117605edc7dd5f881cf69b65d3595"
+    },
+    {
+      "path": "assets/chairs/chairs-observation-small.webp",
+      "bytes": 147152,
+      "sha256": "ed7359d395ba358ae59b1ec44b15a07d6c7002b573ffefe4e0b833955524fba9"
+    },
+    {
+      "path": "assets/chairs/chairs-observation.webp",
+      "bytes": 674832,
+      "sha256": "9e19a434a8d43f7493b075444c989f95b36d6b03c5921d0e0a36e97d1d089a11"
+    },
+    {
+      "path": "assets/chairs/colour-life-small.webp",
+      "bytes": 49452,
+      "sha256": "81ceb7b84c364854d0d85f0c6ad80891a47fb7344c94c258cea42a513dfd2e31"
+    },
+    {
+      "path": "assets/chairs/colour-life.webp",
+      "bytes": 366632,
+      "sha256": "4eed2e9c0ce82fece34111e7d8eb444a4c32d5b883a86416f672092a9eb59789"
+    },
+    {
+      "path": "assets/chairs/colour-open-small.webp",
+      "bytes": 91378,
+      "sha256": "7aee97486cfd952c7199a9f50cfe12a52bb81cfd7f639e2b8588692903424251"
+    },
+    {
+      "path": "assets/chairs/colour-open.webp",
+      "bytes": 523808,
+      "sha256": "89523876077c2bb7ce98611834491f4fa38e357bbf3ddffea11fa4cd6aec14e2"
+    },
+    {
+      "path": "assets/chairs/colour-outdoors-small.webp",
+      "bytes": 67344,
+      "sha256": "300d63757c23d8d256b921384b71e7088ab026cb9c99f7373ae35612fc6e5ea0"
+    },
+    {
+      "path": "assets/chairs/colour-outdoors.webp",
+      "bytes": 348126,
+      "sha256": "445547d76ed0aca871d87548156f11c9f6a800e7f168fdc17ea84aa3f61b8eb0"
+    },
+    {
+      "path": "assets/chairs/colour-poster-small.webp",
+      "bytes": 99820,
+      "sha256": "e7a494696401010c0e2cb265ee5db5a1f113a54eb73dca4c1bc53aa0547df140"
+    },
+    {
+      "path": "assets/chairs/colour-poster.webp",
+      "bytes": 408770,
+      "sha256": "9841213825be29f4d10cc1641de78d27244fa87167f20c3ba67c7715fa6176c1"
+    },
+    {
+      "path": "assets/chairs/colour-variation-angle-small.webp",
+      "bytes": 33916,
+      "sha256": "4047291fd3c0a40ad124e3ea562ced8e6e2c5a2335bcb5b4edf234567e5be1c5"
+    },
+    {
+      "path": "assets/chairs/colour-variation-angle.webp",
+      "bytes": 194880,
+      "sha256": "298a3794e557e36157fdddda6d7ebeecff00de708e474d086ceeb8af1689cafa"
+    },
+    {
+      "path": "assets/chairs/colour-variation-flat-small.webp",
+      "bytes": 34654,
+      "sha256": "6b9118081135b345915efa7fc8de9e0e597fc9a0151c0ed14f1463bb70ba4188"
+    },
+    {
+      "path": "assets/chairs/colour-variation-flat.webp",
+      "bytes": 204516,
+      "sha256": "5aeb543e6c9dd46836572e70960fe038ff3f5ce97cbd2de3d43ad506452808b8"
+    },
+    {
+      "path": "assets/chairs/cream-poster-small.webp",
+      "bytes": 51832,
+      "sha256": "c3ff99db22021756a43ffad6c2fab14bd33af0358c5a331c9a5fa7219c1a766d"
+    },
+    {
+      "path": "assets/chairs/cream-poster.webp",
+      "bytes": 335944,
+      "sha256": "4bbbe83b9ec39a9fc27df80af5439625a62d3f076656c005f41c0dd766b6998e"
+    },
+    {
+      "path": "assets/chairs/key-visual-small.webp",
+      "bytes": 114512,
+      "sha256": "1e61a07442c3a1b5d08024fd2236f818b7fb8ffa474cb6288950598595a6c126"
+    },
+    {
+      "path": "assets/chairs/key-visual.webp",
+      "bytes": 516932,
+      "sha256": "e8600ca56067b155941890bf9bab0c939c95c32aec07fd718fe643b251bf138f"
+    },
+    {
+      "path": "assets/chairs/lineup-small.webp",
+      "bytes": 175540,
+      "sha256": "3aa61ac9e66f8e0ae5bd2f156ec8ff74d3c41f79bb17ca6e3aab25ee47d23011"
+    },
+    {
+      "path": "assets/chairs/lineup.webp",
+      "bytes": 928820,
+      "sha256": "5d3711160742c856c7452f7656e0e10b252018c637c3c1a254f77a254c6726d7"
+    },
+    {
+      "path": "assets/chairs/plaid-back-small.webp",
+      "bytes": 57694,
+      "sha256": "cec2ec8bd66bf1072be87c9408b439e7c72249faa81c8c09d7376c715c101788"
+    },
+    {
+      "path": "assets/chairs/plaid-back.webp",
+      "bytes": 413672,
+      "sha256": "c29c985bed47af278cc9e1b0bb3a159e3b97a178d4a54b03d3a5ddc40f838650"
+    },
+    {
+      "path": "assets/chairs/plaid-front-small.webp",
+      "bytes": 53408,
+      "sha256": "53fe4be5fc41062eafcf48649db26ab5434cccc460099de4691e9832f1ba785d"
+    },
+    {
+      "path": "assets/chairs/plaid-front.webp",
+      "bytes": 416054,
+      "sha256": "05c9361bd94db1b64c96dd0b29a2c90c855463abc9d23deba6984c98bf973570"
+    },
+    {
+      "path": "assets/chairs/plaid-life-1-small.webp",
+      "bytes": 79512,
+      "sha256": "608db65c9cf9677c4fae77cf27c2b216b129ced737ef7e548c55e992967b0f0b"
+    },
+    {
+      "path": "assets/chairs/plaid-life-1.webp",
+      "bytes": 391390,
+      "sha256": "d8f189e7c4984efff9f57c07d25672297c79278971d42f21dc6e6e717d7eacf9"
+    },
+    {
+      "path": "assets/chairs/plaid-life-2-small.webp",
+      "bytes": 61262,
+      "sha256": "a7e38445962b7371708d6ef19e2efba6f2e12b67f3cf6bd89c0cd8d4b560dae9"
+    },
+    {
+      "path": "assets/chairs/plaid-life-2.webp",
+      "bytes": 372870,
+      "sha256": "e8c5fb3baeb79fb230fb81bbc32f4524e1c7655705e0119bdc0bdb3c8f71f3b6"
+    },
+    {
+      "path": "assets/chairs/plaid-poster-small.webp",
+      "bytes": 153714,
+      "sha256": "2b47d3d1d3e2afb8e2d84af71a492e98f7e6cb5c64d74a92a176b4ae1e8e5e11"
+    },
+    {
+      "path": "assets/chairs/plaid-poster.webp",
+      "bytes": 696672,
+      "sha256": "30fe92b39ad7078a9f507abd0adb1b7ec10eaa68da88392f2e375235f3c91bab"
+    },
+    {
+      "path": "assets/chairs/stripe-life-small.webp",
+      "bytes": 74292,
+      "sha256": "5138105119c74cd3418f69ff49a15da17e7e23140227b9b91aa3474e62b365ae"
+    },
+    {
+      "path": "assets/chairs/stripe-life.webp",
+      "bytes": 433060,
+      "sha256": "a5ec60b34af32354d633d5f8ce50adc2d403dc8019c4cecb60fbab568e6e87ab"
+    },
+    {
+      "path": "assets/chairs/stripe-open-small.webp",
+      "bytes": 54774,
+      "sha256": "41ea22472eefe6d9331c071085f1330a2d472ad5f2387d28213471838163edbb"
+    },
+    {
+      "path": "assets/chairs/stripe-open.webp",
+      "bytes": 301684,
+      "sha256": "837d96e899f75cc2301eccfc132aad593e4c50408c07a7bf513d0438086a52f3"
+    },
+    {
+      "path": "assets/chairs/stripe-poster-small.webp",
+      "bytes": 53084,
+      "sha256": "e50bb5dc80785ea5fd179a33caa017020b778d8085f5e0e2aaebfb715aedb697"
+    },
+    {
+      "path": "assets/chairs/stripe-poster.webp",
+      "bytes": 288846,
+      "sha256": "7d957cca7376c280b394df72bdd49ed6508a218e5196f30b491abdfad66e1c0d"
+    },
+    {
+      "path": "assets/lifestyle.jpg",
+      "bytes": 181614,
+      "sha256": "bbb7f1314f128958be0ad516187d2021774483cd084a32d83363b8a5669c212a"
+    },
+    {
+      "path": "assets/Wang_Lu_Portfolio.pdf",
+      "bytes": 3957928,
+      "sha256": "a819a269e16d761d215ac645ca3e92e527181a21e400b9541f4ae77c5ab5e622"
+    },
+    {
+      "path": "assets/works/animal-world.jpg",
+      "bytes": 361693,
+      "sha256": "2d01d5e7685ab66591183738acc58ed05ddf9994ef569e1115819b64295fd994"
+    },
+    {
+      "path": "assets/works/ceramic-detail.jpg",
+      "bytes": 156830,
+      "sha256": "e2adbfbc4ba53b322ad67dcd9e4d0fdabaf9836e5011321b1dac39dca9ac9e52"
+    },
+    {
+      "path": "assets/works/ceramic-objects.jpg",
+      "bytes": 110936,
+      "sha256": "e2cd26a01e78c13726b671cdb5bd63dab55d67b551bd81679135334ac5f96bce"
+    },
+    {
+      "path": "assets/works/city-people.jpg",
+      "bytes": 362928,
+      "sha256": "1eb70cc5528f24557bf941325111d0dadd901cb30f74ebf157088954080f588b"
+    },
+    {
+      "path": "assets/works/city-series-03.jpg",
+      "bytes": 409731,
+      "sha256": "0055ba2a9ade779fef5d664fbf33a6df5ac7802489b48f2dc791b47b38771975"
+    },
+    {
+      "path": "assets/works/city-series-04.jpg",
+      "bytes": 404863,
+      "sha256": "f71bb872965d6bb630d77d0e20c0d51e702ef6f77a95f040127f003a10adfb64"
+    },
+    {
+      "path": "assets/works/city-transit.jpg",
+      "bytes": 282418,
+      "sha256": "5ee0671377351de0c51502e4c62916f89b49df949c15a65153f3651435933c7d"
+    },
+    {
+      "path": "assets/works/commissioned-printing.jpg",
+      "bytes": 425671,
+      "sha256": "c2b95edb65395166d7fff84daf183a62428505f7c5cc1cf5078d0e18cbca74b0"
+    },
+    {
+      "path": "assets/works/print-selection-01.jpg",
+      "bytes": 257985,
+      "sha256": "39645344f5903b3ce4e5e278c4d27c33733eac91602bb0b150707189a5e84446"
+    },
+    {
+      "path": "assets/works/print-selection-02.jpg",
+      "bytes": 135214,
+      "sha256": "a3b037dd7fa7f5f26caf8a36ea09d248fbcf1788174eab1a2b42e619a89164b9"
+    },
+    {
+      "path": "assets/works/studio-practice.jpg",
+      "bytes": 303262,
+      "sha256": "904d22289b6bf47bdb52d2ef121980bfa2202db37eb81674fd5349b04405f20c"
+    },
+    {
+      "path": "chairs.html",
+      "bytes": 26991,
+      "sha256": "922b0438a1554baf813f673e1edcde33b4e11aebf06ad48dc84525fed3cf9aad"
+    },
+    {
+      "path": "exhibition-between-surfaces.html",
+      "bytes": 350,
+      "sha256": "296b9c25692d49dabcec3387e7000a89b390a8bbb6d8999f7a1f31e0a55d8dd3"
+    },
+    {
+      "path": "exhibition.css",
+      "bytes": 16765,
+      "sha256": "105e4a9d0ab790cca602dbe373c22215ba844752a0854d874a563aa8de14aa5c"
+    },
+    {
+      "path": "exhibitions.html",
+      "bytes": 4348,
+      "sha256": "e090636703ec533c164f112982afb531603bad07add09d91ca92688301a3ae64"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4769,
+      "sha256": "de21e6f762e2fa91616e58f501285a9549c1a3e73b534c726d1b9228111dc2dc"
+    },
+    {
+      "path": "portfolio.js",
+      "bytes": 6300,
+      "sha256": "5162783d3bf1d28bed236b14792ed7d226c769adb9c2dbd725d097ac950089ab"
+    },
+    {
+      "path": "practice.html",
+      "bytes": 7311,
+      "sha256": "4e6cb3397bc2315541c14f64b2ca34920cbe801037316c7daa0358628e28b51b"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 14432,
+      "sha256": "6ed6850c1311c5653466a385a4b66155df98c241f75e981ac7bfa7ca7176fe48"
+    },
+    {
+      "path": "works.html",
+      "bytes": 10328,
+      "sha256": "a049dbabc03270f3e7bb5f9e6fd54acb2bcd5cdf6638058f932ea6d8e0d7cfae"
+    }
+  ]
+}
