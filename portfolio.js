@@ -35,6 +35,7 @@ const dialogImage = document.getElementById('dialog-image');
 document.querySelectorAll('[data-lightbox]').forEach(button => button.addEventListener('click', () => {
   const image = button.querySelector('img');
   dialogImage.src = button.dataset.fullImage || image.src;
+  dialogImage.style.backgroundColor = button.classList.contains('dossier-dark') ? '#151515' : 'transparent';
   const caption = button.closest('figure').querySelector('figcaption').textContent;
   dialogImage.alt = caption;
   document.getElementById('dialog-caption').textContent = caption;

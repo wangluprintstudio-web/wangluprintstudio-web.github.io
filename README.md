@@ -50,3 +50,14 @@ The image-preview workspace remains a temporary browser-only preview, just as in
 ## Rights
 
 Artwork, photographs and portfolio content remain the property of their respective rights holders. Making this repository public does not grant a reuse licence to the artwork or photographs.
+
+
+## Portfolio update · 2026-10-15
+
+The home page presents CHAIR, MIEO STUDIO, CAKE OBJECT and AFTER 6:17 PM in a scrollable project directory with autoplay, pause, arrows and numbered navigation. Reduced-motion preferences stop automatic playback by default.
+
+The artwork archive provides combined project, year and type filters for seven existing project groups. MIEO has an independent case study organised into brand visuals, packaging labels, first-release product graphics and second-release design artwork. CHAIR includes its typographic poster and updated application images.
+
+Reviewed image variants are stored under assets/projects/2026/chair/ and assets/projects/2026/mieo/; MIEO has brand, packaging, products and second-release subfolders. Images keep their complete composition. content/project-index.json records the published project grouping; page content is authored in the HTML files.
+
+Run npm run check to validate local links, anchors and IDs, and npm start for local preview. Chinese/English switching and image enlargement remain available.

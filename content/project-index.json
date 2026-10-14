@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": "chair",
+      "title": "CHAIR",
+      "year": "2026",
+      "years": "2026",
+      "types": "pattern product graphic",
+      "url": "chairs.html"
+    },
+    {
+      "id": "mieo",
+      "title": "MIEO",
+      "year": "2026",
+      "years": "2026",
+      "types": "brand product graphic",
+      "url": "mieo.html"
+    },
+    {
+      "id": "cake",
+      "title": "CAKE OBJECT",
+      "year": "2026",
+      "years": "2026",
+      "types": "experimental material",
+      "url": "cake-object.html"
+    },
+    {
+      "id": "after",
+      "title": "AFTER 6:17 PM",
+      "year": "2026",
+      "years": "2026",
+      "types": "graphic experimental",
+      "url": "after-617.html"
+    },
+    {
+      "id": "prints",
+      "title": "版画作品",
+      "year": "2025–2026",
+      "years": "2025 2026",
+      "types": "print",
+      "url": "works.html#printmaking"
+    },
+    {
+      "id": "illustration",
+      "title": "城市插画",
+      "year": "年份未标注",
+      "years": "unknown",
+      "types": "illustration",
+      "url": "works.html#illustration"
+    },
+    {
+      "id": "ceramics",
+      "title": "陶艺实践",
+      "year": "年份未标注",
+      "years": "unknown",
+      "types": "material",
+      "url": "works.html#ceramics"
+    }
+  ],
+  "updated": "2026-10-15"
+}
